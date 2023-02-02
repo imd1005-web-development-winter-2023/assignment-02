@@ -45,8 +45,6 @@ The web page that you are building must have the following **minimum requirement
 * Footer
   * Logo
   * Year and Copyright symbol
-  * Navigation links
-    * Minimum of two navigation menu items
   
 At the bottom of this page there is a sample design of a web page that would meet the content requirements
 

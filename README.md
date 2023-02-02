@@ -48,6 +48,7 @@ The web page that you are building must have the following **minimum requirement
   * Navigation links
     * Minimum of two navigation menu items
   
+At the bottom of this page there is a sample design of a web page that would meet the content requirements
 
 ## Assignment acceptance criteria 
 
@@ -123,5 +124,7 @@ This report is worth 20% of your final grade and marked out of 100.
 
 ## Content requirements sample
 
+The following is a sample of something that would meet the content requirements.
 
+![assignment-02-sample](https://user-images.githubusercontent.com/9325038/216268800-6875bd5b-1be5-4fd8-8c9e-6c6312004454.png)
 

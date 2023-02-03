@@ -39,7 +39,7 @@ The web page that you are building must have the following **minimum requirement
   * Hero section
   * Three (3) additional content sections
   * HTML form such as a Contact form
-    * with minimum of two input elements
+    * with minimum of one input element and one submit button
     * the form can be in the footer OR can be an additional section of content 
     * the form does not count as one of your three (3) content sections
 * Footer
@@ -57,12 +57,12 @@ At the bottom of this page there is a sample design of a web page that would mee
 
 ## Grading rubric
 
-This report is worth 20% of your final grade and marked out of 100.
+The creation and posting of this web page is worth 20% of your final grade and marked out of 100.
 
 |Criteria|Total&nbsp;Marks|How we define excellence|
 |----|----|----|
-|Visual design|**15%**|TODO|
-|Content and layout|**15%**|TODO|
+|Visual design|**15%**|The design presented demonstrates an excellent use of colour (or lack thereof), typography, high quality graphics, and iconography. The design also comes across as cohesive, inviting, and illustrates a focus on user experience.|
+|Content and layout|**15%**|The content implemented on the web page demonstrates a clear hierarchy, with key information easy to find. An effective layout is employed for the content that is being displayed|
 |HTML|**30%**|TODO|
 |CSS|**30%**|TODO|
 |GitHub&nbsp;submission|**10%**|TODO|
@@ -99,11 +99,11 @@ This report is worth 20% of your final grade and marked out of 100.
 
 ### HTML Resources
 
-* TODO
+* TOD\
 
 ### CSS Resources 
 
-* TODO
+* [Intro to CSS - Prof3ssorSt3v3](https://www.youtube.com/watch?v=KFKScNHa-8M&list=PLyuRouwmQCjl4wTSNbb8RTKZuyMhoIxBe&index=2)
 
 ### Images and Icons 
 

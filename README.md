@@ -130,3 +130,4 @@ The following is a sample of something that would meet the content requirements.
 
 ![assignment-02-sample](https://user-images.githubusercontent.com/9325038/216268800-6875bd5b-1be5-4fd8-8c9e-6c6312004454.png)
 
+<!-- Comment --> 

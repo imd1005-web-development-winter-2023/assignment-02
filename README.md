@@ -130,4 +130,32 @@ The following is a sample of something that would meet the content requirements.
 
 ![assignment-02-sample](https://user-images.githubusercontent.com/9325038/216268800-6875bd5b-1be5-4fd8-8c9e-6c6312004454.png)
 
-<!-- Comment --> 
+<!-- 
+
+!!!! ASSIGNMENT BONUS !!!!
+
+Congratulations - you found the secret assignment bonus. 
+
+Well done! To get an extra 15% on your mark for Assignment 02 please follow the instructions below.
+
+STEP 1: 
+
+Add an HTML code comment to your web page (in the body) with the text: "I found the bonus"
+
+STEP 2: 
+
+Use the CSS transition property with one element (for example the links in your menu) on your web page to create a cool annimation effect 
+
+Helpful resource: https://www.joshwcomeau.com/animation/css-transitions/
+
+STEP 3:
+
+Get 15% extra on your assignment (you can not get more than 100% in total for assignment 02).
+
+NOTE: 
+
+Only 15 (fifteen) bonuses will be handed out, and are based on first come first serve.
+
+!!!! ASSIGNMENT BONUS !!!!
+
+--> 

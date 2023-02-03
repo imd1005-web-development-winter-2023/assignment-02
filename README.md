@@ -93,6 +93,9 @@ The creation and posting of this web page is worth 20% of your final grade and m
   <dt>Do I need to include sketches, concepts, or initial low fidelity mockups in the report</dt>
   <dd>No. If you would like to share your design or creative process I'm happy to look at them, but it is not required.</dd>
  
+  <dt>Can I use trademarked or copywritten material on my page?</dt>
+  <dd>Yes! As this is for educational purposes, all of the source is open, and no one is trying to sell their design or code you can absolutely use trademarked or copywritten material.</dd>
+ 
 </dl>
 
 ## Helpful links

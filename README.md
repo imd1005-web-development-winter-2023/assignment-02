@@ -102,7 +102,7 @@ The creation and posting of this web page is worth 20% of your final grade and m
 
 ### HTML Resources
 
-* TOD\
+* [Intro to HTML - Prof3ssorSt3v3](https://www.youtube.com/watch?v=KUmuiqV1xME&list=PLyuRouwmQCjncCz8JChyPNRBvm2ONGYa2)
 
 ### CSS Resources 
 

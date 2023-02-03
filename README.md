@@ -19,13 +19,14 @@
 Create and host a web page that meets the following requirements:
 
 * Build one (1) web page
-* Web page must be built from scratch, with an original design
+* Web page must be built from scratch, and implement an original design created by you
 * Web page must meet the minimum content requirements identified within this document 
 * Web page can be either a Desktop or a Mobile version and does not have to be responsive
 * Web page must have valid and compliant HTML
 * HTML and CSS code must be posted to a public GitHub repo **(More details to come)**
 * Web page should be hosted using GitHub pages service **(More details to come)**
 * Web page must be reachable by a browser on the public internet
+* A CSS reset file is used to harmonize browser style defaults 
 
 ## Content requirements
 
@@ -39,14 +40,14 @@ The web page that you are building must have the following **minimum requirement
   * Hero section
   * Three (3) additional content sections
   * HTML form such as a Contact form
-    * with minimum of one input element and one submit button
-    * the form can be in the footer OR can be an additional section of content 
-    * the form does not count as one of your three (3) content sections
+    * with a minimum of one input element and one submit button
+    * the form can be placed anywhere on the page, either embedded in another section of content or as it's own section of content
 * Footer
   * Logo
   * Year and Copyright symbol
+  * Optional: Navigation links, address, contact information, other footer elements
   
-At the bottom of this page there is a sample design of a web page that would meet the content requirements
+Below you will find a sample design of a web page that would meet the content requirements.
 
 ## Assignment acceptance criteria 
 
@@ -61,10 +62,10 @@ The creation and posting of this web page is worth 20% of your final grade and m
 
 |Criteria|Total&nbsp;Marks|How we define excellence|
 |----|----|----|
-|Visual design|**15%**|The design presented demonstrates an excellent use of colour (or lack thereof), typography, high quality graphics, and iconography. The design also comes across as cohesive, inviting, and illustrates a focus on user experience.|
-|Content and layout|**15%**|The content implemented on the web page demonstrates a clear hierarchy, with key information easy to find. An effective layout is employed for the content that is being displayed|
-|HTML|**30%**|TODO|
-|CSS|**30%**|TODO|
+|Visual design|**15%**|The design presented demonstrates an excellent use of colour (or lack thereof), typography, high quality graphics, and iconography. The design also comes across as cohesive, inviting, and illustrates a focus on user experience. An excellent design also includes a way of delighting users and adding moments of charm to their experience.|
+|Content and layout|**15%**|The content implemented on the web page demonstrates a clear hierarchy (e.g. top task at the top), with additional key information easy to find on the web page. An effective layout is employed for the content that is being displayed in each section.|
+|HTML|**30%**|The HTML code submitted is well formed, structured, commented, and complaint. Appropriate semantic elements are used throughout the document. For example, use `<header>` for the page header and `<section>` for each document section within `<main>`. Correct use of headings `<h1-h6>` and heading structure. The web page has the appropriate meta tags in teh `<head>` to set the charset and viewport values.|
+|CSS|**30%**|The CSS code submitted is well formed, structured, commented, and compliant. A CSS reset file is used to 'reset' all of the default browser styles. The web page renders correctly in multiple browers, including but not limited to Firefox and / or Chrome. All CSS should be referenced from an external file. The web page should not use a `<style>` tag or a embedded `style` attributes to apply CSS to the page.|
 |GitHub&nbsp;submission|**10%**|TODO|
 
 

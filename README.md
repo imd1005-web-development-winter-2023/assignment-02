@@ -12,7 +12,8 @@
 
 ## TLDR
 
-1. Build one (1) web page using your own HTML and CSS (no templates or frameworks) that satisfies all content and submission requirements for this assignment. Add your web page to GitHub and host the page online using the GitHub pages service.
+1. Build one (1) web page using your own HTML and CSS (no templates or frameworks) that satisfies all content and submission requirements for this assignment. 
+2. Add the code for your web page to a GitHub repository and host the page online using the GitHub pages service.
 
 ## Description
 
@@ -47,14 +48,16 @@ The web page that you are building must have the following **minimum requirement
   * Year and Copyright symbol
   * Optional: Navigation links, address, contact information, other footer elements
   
-Below you will find a sample design of a web page that would meet the content requirements.
+**Note 1:** If your design leverages a different layout, and you are unsure if the design meets the above content requirments, please contact me to discuss.
+
+**Note 2:** Below you will find a sample design of a web page that would meet the content requirements.
 
 ## Assignment acceptance criteria 
 
 * Publish your code on GitHub using the GitHub classrooms generated repository **(More details to come)**
 * Use the GitHub Pages service to host your pages **(More details to come)**
 * GitHub time stamps on your project files will be used to asses when the assignment was submitted
-
+* Ensure you have a license file in your repository (recommend MIT license)
 
 ## Grading rubric
 
@@ -67,7 +70,6 @@ The creation and posting of this web page is worth 20% of your final grade and m
 |HTML|**30%**|The HTML code submitted is well formed, structured, commented, and complaint. Appropriate semantic elements are used throughout the document. For example, use `<header>` for the page header and `<section>` for each document section within `<main>`. Correct use of headings `<h1-h6>` and heading structure. The web page has the appropriate meta tags in teh `<head>` to set the charset and viewport values.|
 |CSS|**30%**|The CSS code submitted is well formed, structured, commented, and compliant. A CSS reset file is used to 'reset' all of the default browser styles. The web page renders correctly in multiple browers, including but not limited to Firefox and / or Chrome. All CSS should be referenced from an external file. The web page should not use a `<style>` tag or a embedded `style` attributes to apply CSS to the page.|
 |GitHub&nbsp;submission|**10%**|The HTML and CSS code is added to a repository on GitHub. The repository has both a populated READMe.md file and MIT license file.|
-
 
 ## Late submissions
 
@@ -104,10 +106,12 @@ The creation and posting of this web page is worth 20% of your final grade and m
 ### HTML Resources
 
 * [Intro to HTML - Prof3ssorSt3v3](https://www.youtube.com/watch?v=KUmuiqV1xME&list=PLyuRouwmQCjncCz8JChyPNRBvm2ONGYa2)
+* [HTML Tutorial - MDN](https://developer.mozilla.org/en-US/docs/Learn/HTML)
 
 ### CSS Resources 
 
 * [Intro to CSS - Prof3ssorSt3v3](https://www.youtube.com/watch?v=KFKScNHa-8M&list=PLyuRouwmQCjl4wTSNbb8RTKZuyMhoIxBe&index=2)
+* [CSS Tutorials - MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/Tutorials)
 
 ### Images and Icons 
 
@@ -126,7 +130,7 @@ The creation and posting of this web page is worth 20% of your final grade and m
 
 ## Content requirements sample
 
-The following is a sample of something that would meet the content requirements.
+The following is a sample of a web page that would be considered to meet the content requirements. You do not, and should not build this design. This is only being shared to illustrate the content requirements of this assignment. 
 
 ![assignment-02-sample](https://user-images.githubusercontent.com/9325038/216268800-6875bd5b-1be5-4fd8-8c9e-6c6312004454.png)
 

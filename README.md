@@ -1,4 +1,4 @@
-# Assignment 02 - DRAFT
+# Assignment 02
 
 **Course Title**: Web Development
 

@@ -48,7 +48,7 @@ The web page that you are building must have the following **minimum requirement
   * Year and Copyright symbol
   * Optional: Navigation links, address, contact information, other footer elements
   
-**Note 1:** If your design leverages a different layout, and you are unsure if the design meets the above content requirments, please contact me to discuss.
+**Note 1:** If your design leverages a different layout (for example horizontal scrolling), and you are unsure whether or not you are meeting the above content requirments, please contact me to discuss.
 
 **Note 2:** Below you will find a sample design of a web page that would meet the content requirements.
 

@@ -69,7 +69,7 @@ The creation and posting of this web page is worth 20% of your final grade and m
 |Content and layout|**15%**|The content implemented on the web page demonstrates a clear hierarchy (e.g. top task at the top), with additional key information easy to find on the web page. An effective layout is employed for the content that is being displayed in each section.|
 |HTML|**30%**|The HTML code submitted is well formed, structured, commented, and complaint. Appropriate semantic elements are used throughout the document. For example, use `<header>` for the page header and `<section>` for each document section within `<main>`. Correct use of headings `<h1-h6>` and heading structure. The web page has the appropriate meta tags in teh `<head>` to set the charset and viewport values.|
 |CSS|**30%**|The CSS code submitted is well formed, structured, commented, and compliant. A CSS reset file is used to 'reset' all of the default browser styles. The web page renders correctly in multiple browers, including but not limited to Firefox and / or Chrome. All CSS should be referenced from an external file. The web page should not use a `<style>` tag or a embedded `style` attributes to apply CSS to the page.|
-|GitHub&nbsp;submission|**10%**|The HTML and CSS code is added to a repository on GitHub. The repository has both a populated READMe.md file and MIT license file.|
+|GitHub&nbsp;submission|**10%**|The HTML and CSS files are added to a repository on GitHub. The repository has both a populated READMe.md file and a MIT license file.|
 
 ## Late submissions
 
